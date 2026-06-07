@@ -92,6 +92,5 @@ python analysis.py              # prints funnel + cohort + A/B in the terminal
 * `INSIGHTS.md`: five things I noticed in the data
 * `CASE_STUDY.md`: the story version of the whole thing
 * `wireframes/`: rough sketches of every screen before I built it
-* `RESUME_BULLETS.md`: short lines I can paste into a resume or LinkedIn
 
 Start with `CASE_STUDY.md` if you want the story, or jump into the dashboard at `/` if you cloned it locally.
